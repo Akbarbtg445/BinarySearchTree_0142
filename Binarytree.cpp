@@ -145,6 +145,7 @@ class BinaryTree
         cout << ptr ->info << " ";//parent
     }
 };
+
 int main()
 {
     BinaryTree x;
