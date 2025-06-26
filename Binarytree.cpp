@@ -40,6 +40,7 @@ class BinaryTree
             currentnode = currentnode->rightchild;
         }
     }
+    
     void insert()
     {
         int x;
